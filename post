@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Kondishwaran",
+    "EmployeeID": "ID001",
+    "Salary": 100,
+    "Location": "Salem",
+    "Experience": "5yrs",
+    "Department": "Mendix"
+  },
+  {
+    "Name": "Bala",
+    "EmployeeID": "ID002",
+    "Salary": 80,
+    "Location": "Chennai",
+    "Experience": "10yrs",
+    "Department": "Java"
+  },
+  {
+    "Name": "Duplicate",
+    "EmployeeID": "ID003",
+    "Salary": 75,
+    "Location": "Chennai",
+    "Experience": "1yrs",
+    "Department": "CSS"
+  },
+  {
+    "Name": "Arun",
+    "EmployeeID": "ID006",
+    "Salary": 200,
+    "Location": "Salem",
+    "Experience": "5yrs",
+    "Department": "Sales"
+  },
+  {
+    "Name": "Karthi",
+    "EmployeeID": "ID007",
+    "Salary": 50,
+    "Location": "Salem",
+    "Experience": "6yrs",
+    "Department": "Sales"
+  }
+]
